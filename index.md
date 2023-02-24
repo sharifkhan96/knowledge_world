@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Sharif Danish Website
 
 I am Sharif Danish, a Computer Science student. I am passionate about the Information Technology.
 
